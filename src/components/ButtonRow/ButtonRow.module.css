@@ -1,2 +1,6 @@
 .buttonRow {
+        overflow-x:auto;
+}
+.buttonRowScroller {
+    width: max-content;
 }
